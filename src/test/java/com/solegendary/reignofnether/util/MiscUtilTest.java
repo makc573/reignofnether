@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class MiscUtilTest {
+class MiscUtilTest {99999999999999999999999
 
     @Test
     void shadeHexRGB() {
